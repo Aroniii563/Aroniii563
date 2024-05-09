@@ -72,3 +72,11 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aroniii&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Aroniii" /></p>
+
+<br>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
